@@ -1,0 +1,14 @@
+5
+20 6 hacker cup
+100 20 hacker cup 2013
+10 20 MUST BE ABLE TO HACK
+55 25 Can you hack
+100 20 Hack your way to the cup
+100 90 hacker cup
+100 90 ha ke cu p
+90 100 hacker cup
+90 100 ha ke cu p
+100 90 MUSTBEA B LE TO HACK
+100 90 MUST BE ABLE TO HACK
+90 100 MUSTBEA B LE TO HACK
+90 100 MUST BE ABLE TO HACK
